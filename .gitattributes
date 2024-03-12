@@ -1,1 +1,1 @@
-*.SegundoCódigoAula_2 filter=lfs diff=lfs merge=lfs -text
+*SegundoCódigoAula_2/ filter=lfs diff=lfs merge=lfs -text
